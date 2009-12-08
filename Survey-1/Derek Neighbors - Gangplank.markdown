@@ -7,13 +7,13 @@ Submitted from: [http://indyhall.wufoo.com/forms/coworking-questions/](http://in
 
 **Select as many as are appropriate:**
 
-I am a coworking space owner/operator
-I am a coworking space manager
-I am a full time coworker (any membership with a permanent desk)
-I'm a startup working from a coworking space
-I'm a small business working from a coworking space
-I attend Jelly
-I host Jelly
+* I am a coworking space owner/operator
+* I am a coworking space manager
+* I am a full time coworker (any membership with a permanent desk)
+* I'm a startup working from a coworking space
+* I'm a small business working from a coworking space
+* I attend Jelly
+* I host Jelly
 
 **The thing(s) I want to know about coworking is/are:**
 

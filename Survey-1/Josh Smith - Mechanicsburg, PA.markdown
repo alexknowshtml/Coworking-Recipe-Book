@@ -8,11 +8,11 @@ Submitted from: [http://indyhall.wufoo.com/forms/coworking-questions/](http://in
 
 **Select as many as are appropriate**
 
-I am a coworking space catalyst (no permanent space yet)
-I'm something else:	
-I am a coworking space catalyst (somewhere between no permanent space yet and with a permanent space)
+* I am a coworking space catalyst (no permanent space yet)
+* I'm something else:	I am a coworking space catalyst (somewhere between no permanent space yet and with a permanent space)
 
 **The thing(s) I want to know about coworking is/are:**
+
 How do you go about filling the space initially? What sort of advertising budget should I allocate?
 
 What is a good threshold of attendance, meaning the number of warm bodies in the space to make it feel like it is working?

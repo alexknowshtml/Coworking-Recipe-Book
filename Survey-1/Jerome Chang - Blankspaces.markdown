@@ -12,7 +12,7 @@ Submitted from: [http://indyhall.wufoo.com/forms/coworking-questions/](http://in
 
 **Select as many as are appropriate**
 
-I am a coworking space owner/operator
+* I am a coworking space owner/operator
 
 **The thing(s) I want to know about coworking is/are:**
 
