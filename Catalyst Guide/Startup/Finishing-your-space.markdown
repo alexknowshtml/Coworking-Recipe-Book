@@ -15,6 +15,7 @@
 **Derek Young**, *Suite133*, Tacoma Washington
 
 "just some paint. and of course furniture, fridge, etc. for art we are doing a rotating system where we hang up new art from local artists every few months which is for sale as well." 
+
 **Tijs Teulings**, The Hague, Netherlands
 
 "We leased an old house built in 1918. It was in great condition when we got it. We had the interior repainted and gave it a good cleaning. Other than that, it was ready to go." 
@@ -25,7 +26,7 @@ We lucked out -- we found a place that was perfect that only needed some touch u
 
 **Kelly Brown**, *Office Space Coworking*, Akron Ohio
 
-"1) New carpeting, some walls and doors (conference/meeting rooms), new lighting (track instead of fluorescent tubes). "
+"New carpeting, some walls and doors (conference/meeting rooms), new lighting (track instead of fluorescent tubes). "
 
 **Alex Chamberlain**, *Uptime Chico*, Chico California
 
