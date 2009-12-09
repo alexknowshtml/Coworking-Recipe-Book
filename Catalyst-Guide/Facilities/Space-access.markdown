@@ -1,6 +1,6 @@
 ## Space Access
 
-[Jerome Chang](http://blankspaces.com)
+via [Jerome Chang](http://blankspaces.com)
 
 Hi. Jerome here from L.A. I'm a licensed architect so hopefully these answers will help you.
 
