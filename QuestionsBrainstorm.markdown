@@ -27,3 +27,4 @@
 * should we host events? 
 * what kind of events should i host?
 * what do i do about recruiters & hiring?
+* what cities already have active coworking sites and communities in them?
